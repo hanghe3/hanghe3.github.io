@@ -13,16 +13,16 @@ My research interest includes AI Agents, Reinforcement Learning, Multimodal Larg
 
 Publications
 ======
-- **Promoting Efficient Reasoning with Verifiable Stepwise Reward**  
+- **Promoting Efficient Reasoning with Verifiable Stepwise Reward** [[Paper](https://arxiv.org/abs/2508.10293)] [[Website](https://mp.weixin.qq.com/s/8OiJucbM3TkZ0FUTVGnAIA)]  
   <span style="color: red;">(Accepted by <em>AAAI 2026</em>, CCF A)</span>
 
-  Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_ [[Paper](https://arxiv.org/abs/2508.10293)] [[Website](https://mp.weixin.qq.com/s/8OiJucbM3TkZ0FUTVGnAIA)]
+  Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_
 
 Preprints
 ======
-- **RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use**
+- **RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use** [[Paper](https://arxiv.org/abs/2509.06980)] [[Code](https://github.com/Simple-Efficient/RL-Factory)] [[Website](https://mp.weixin.qq.com/s/jvqBJU1gsvkKkeBX_R0fnw)] ![GitHub stars](https://img.shields.io/github/stars/Simple-Efficient/RL-Factory?style=social)
 
-  Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_  [[Paper](https://arxiv.org/abs/2509.06980)] [[Code](https://github.com/Simple-Efficient/RL-Factory)] ![GitHub stars](https://img.shields.io/github/stars/Simple-Efficient/RL-Factory?style=social)
+  Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_
 
 - **Automated detection of atomicity violations in large-scale systems**
 
