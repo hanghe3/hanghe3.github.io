@@ -36,6 +36,12 @@ Research Directions: Reinforcement Learning/Multimodal Post-training/Multimodal 
 
 advised by [Chuhuai Yue](https://scholar.google.com/citations?user=SViqq9IAAAAJ&hl=en), [Jiajun Chai](https://scholar.google.com/citations?user=yDdfap0AAAAJ&hl=en), [Guojun Yin](https://gjyin.github.io/)
 
+Service and Talks
+======
+1. CVPR 2026 (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026) Reviewer
+2. WWW 2026 (The ACM Web Conference 2026) Reviewer
+3. Transformer Seminar Host
+
 Award
 ======
 1. National Scholarship, 2022. (国家奖学金)
