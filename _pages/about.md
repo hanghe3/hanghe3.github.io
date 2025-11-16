@@ -13,7 +13,8 @@ My research interest includes AI Agents, Reinforcement Learning, Multimodal Larg
 
 Publications
 ======
-- **Promoting Efficient Reasoning with Verifiable Stepwise Reward** <span style="color: red; font-style: italic;">(Accepted by AAAI 2026, CCF A)</span>
+- **Promoting Efficient Reasoning with Verifiable Stepwise Reward**  
+  <span style="color: red; font-style: italic;">(Accepted by AAAI 2026,</span> <span style="color: red;">CCF A)</span>
 
   Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_ [[Paper](https://arxiv.org/abs/2508.10293)]
 
