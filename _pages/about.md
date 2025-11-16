@@ -13,7 +13,7 @@ My research interest includes AI Agents, Reinforcement Learning, Multimodal Larg
 
 Publications
 ======
-- **Promoting Efficient Reasoning with Verifiable Stepwise Reward**
+- **Promoting Efficient Reasoning with Verifiable Stepwise Reward** <span style="color: red; font-style: italic;">(Accepted by AAAI 2026, CCF A)</span>
 
   Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_ [[Paper](https://arxiv.org/abs/2508.10293)]
 
@@ -21,7 +21,7 @@ Preprints
 ======
 - **RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use**
 
-  Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_  [[Paper](https://arxiv.org/abs/2509.06980)]
+  Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_  [[Paper](https://arxiv.org/abs/2509.06980)] [[Code](https://github.com/Simple-Efficient/RL-Factory)] ![GitHub stars](https://img.shields.io/github/stars/Simple-Efficient/RL-Factory?style=social)
 
 - **Automated detection of atomicity violations in large-scale systems**
 
