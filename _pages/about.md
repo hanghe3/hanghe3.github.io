@@ -30,7 +30,7 @@ Preprints
 
 Internship
 ======
-<img src="{{ '/images/themes/美团.png' | relative_url }}" alt="Meituan logo" style="height:20px; margin-right:6px; vertical-align:middle;"> **Meituan（美团）**, **Search and Recommendation Platform Department（搜索和推荐平台部）**, Agentic System X (AsX) Team
+<img src="{{ '/images/themes/美团.png' | relative_url }}" alt="Meituan logo" style="height:28px; margin-right:8px; vertical-align:middle;"> **Meituan（美团）**, **Search and Recommendation Platform Department（搜索和推荐平台部）**, Agentic System X (AsX) Team
 
 Research Directions: Reinforcement Learning/Multimodal Post-training/Multimodal Retrieval
 
