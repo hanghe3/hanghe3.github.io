@@ -20,9 +20,9 @@ Publications
 
 Preprints
 ======
-- **LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services** [[Paper](https://arxiv.org/abs/2512.07436)]
+- **LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services** [[Paper](https://arxiv.org/abs/2512.07436)] [[Website](https://localsearchbench.github.io/)]
 
-  **Hang He**, Chuhuai Yue, Chengqi Dong, Mingxue Tian, Zhenfeng Liu, Jiajun Chai, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin, Wei Lin, Chengcheng Wan, Haiying Sun, Ting Su
+  **Hang He**, _Chuhuai Yue, Chengqi Dong, Mingxue Tian, Zhenfeng Liu, Jiajun Chai, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin, Wei Lin, Chengcheng Wan, Haiying Sun, Ting Su_
 
 - **RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use** [[Paper](https://arxiv.org/abs/2509.06980)] [[Code](https://github.com/Simple-Efficient/RL-Factory)] [[Website](https://mp.weixin.qq.com/s/jvqBJU1gsvkKkeBX_R0fnw)] ![GitHub stars](https://img.shields.io/github/stars/Simple-Efficient/RL-Factory?style=social)
 
