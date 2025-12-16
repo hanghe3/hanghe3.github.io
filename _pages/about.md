@@ -24,6 +24,10 @@ Preprints
 
   **Hang He**, _Chuhuai Yue, Chengqi Dong, Mingxue Tian, Zhenfeng Liu, Jiajun Chai, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin, Wei Lin, Chengcheng Wan, Haiying Sun, Ting Su_
 
+- **Training Multi-Image Vision Agents via End2End Reinforcement Learning** [[Paper](https://arxiv.org/abs/2512.08980)]
+
+  _Chengqi Dong, Chuhuai Yue_, **Hang He**, _Rongge Mao, Fenghe Tang, S Kevin Zhou, Zekun Xu, Xiaohan Wang, Jiajun Chai, Wei Lin, Guojun Yin_
+
 - **RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use** [[Paper](https://arxiv.org/abs/2509.06980)] [[Code](https://github.com/Simple-Efficient/RL-Factory)] [[Website](https://mp.weixin.qq.com/s/jvqBJU1gsvkKkeBX_R0fnw)] ![GitHub stars](https://img.shields.io/github/stars/Simple-Efficient/RL-Factory?style=social)
 
   Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_
