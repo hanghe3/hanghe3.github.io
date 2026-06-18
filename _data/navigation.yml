@@ -9,10 +9,6 @@ main:
     title_zh: "论文发表"
     url: "/#publications"
 
-  - title: "Preprints"
-    title_zh: "预印本"
-    url: "/#preprints"
-
   - title: "Internship"
     title_zh: "实习经历"
     url: "/#internship"
