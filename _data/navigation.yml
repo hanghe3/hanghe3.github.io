@@ -1,34 +1,30 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
+# main links
+# title = English label, title_zh = Chinese label.
 main:
-  # Navigation bar removed as requested
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "About Me"
+    title_zh: "关于我"
+    url: "/#about-me"
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Publications"
+    title_zh: "论文发表"
+    url: "/#publications"
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Preprints"
+    title_zh: "预印本"
+    url: "/#preprints"
+
+  - title: "Internship"
+    title_zh: "实习经历"
+    url: "/#internship"
+
+  - title: "Service"
+    title_zh: "服务与报告"
+    url: "/#service-and-talks"
+
+  - title: "Awards"
+    title_zh: "荣誉奖项"
+    url: "/#awards"
+
+  - title: "Education"
+    title_zh: "教育经历"
+    url: "/#education"
