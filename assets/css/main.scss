@@ -123,3 +123,19 @@ h1:before, .anchor:before {
     background-color: #b0185b;
     font-size: .8em;
 }
+
+.semantic-scholar-link {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 0.35em;
+}
+
+.semantic-scholar-icon {
+    display: inline-block;
+    flex: 0 0 1.25em;
+    width: 1.25em !important;
+    height: 1.25em !important;
+    max-width: 1.25em;
+    object-fit: contain;
+    vertical-align: middle;
+}
