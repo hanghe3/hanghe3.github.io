@@ -21,7 +21,7 @@ redirect_from:
 
 ### LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services
 
-**Hang He**, _Chuhuai Yue, Chengqi Dong, Mingxue Tian, Hao Chen, Zhenfeng Liu, Jiajun Chai<sup>*</sup>, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin<sup>†</sup>, Wei Lin, Chengcheng Wan<sup>†</sup>, Haiying Sun, Ting Su<sup>†</sup>_
+**Hang He**, _Chuhuai Yue, Chengqi Dong, Mingxue Tian, Hao Chen, Zhenfeng Liu, Jiajun Chai*, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin†, Wei Lin, Chengcheng Wan†, Haiying Sun, Ting Su†_
 
 - <span class="lang-en">Accepted by **SIGKDD 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">被 **SIGKDD 2026** 录用，<span style="color: red;">CCF A</span>。</span>
 - <span class="lang-en">LocalSearchBench is the first comprehensive benchmark for agentic search in local life services, built around real-world merchant data, multi-hop user queries, and constraints such as location, time, ratings, prices, and service availability.</span><span class="lang-zh">LocalSearchBench 是首个面向本地生活服务场景的综合 Agentic Search 评测基准，围绕真实商户数据、多跳用户查询，以及位置、时间、评分、价格、服务可用性等约束构建。</span>
@@ -36,7 +36,7 @@ redirect_from:
 
 ### VistaHop: Benchmarking Multi-hop Visual Reasoning for Visual DeepSearch
 
-**Hang He**, _Chuhuai Yue, Chengqi Dong, Chengcheng Wan<sup>†</sup>, Ting Su, Haiying Sun, Jiajun Chai, Xiaohan Wang, Guojun Yin<sup>†</sup>_
+**Hang He**, _Chuhuai Yue, Chengqi Dong, Chengcheng Wan†, Ting Su, Haiying Sun, Jiajun Chai, Xiaohan Wang, Guojun Yin†_
 
 - <span class="lang-en">VistaHop is a benchmark for Visual DeepSearch, evaluating whether multimodal agents can repeatedly inspect images, ground intermediate reasoning in visual evidence, and connect fine-grained clues across long reasoning chains.</span><span class="lang-zh">VistaHop 是面向 Visual DeepSearch 的评测基准，用于评估多模态智能体能否反复检查图像、将中间推理扎根于视觉证据，并在长推理链中连接细粒度线索。</span>
 - <span class="lang-en">It contains 300 high-resolution images, 25 visual search scenarios, and 350 multi-hop VQA tasks, together with VistaArena, a unified tool-interaction environment for visual retrieval, image inspection, and evidence-grounded reasoning.</span><span class="lang-zh">VistaHop 包含 300 张高分辨率图像、25 类视觉搜索场景与 350 个多跳视觉问答任务，并构建 VistaArena 统一工具交互环境，支持视觉检索、图像检查与基于证据的推理。</span>
@@ -50,7 +50,7 @@ redirect_from:
 
 ### Automated Detection of Atomicity Violations in Large-Scale Systems
 
-**Hang He**<sup>*</sup>, Yixing Luo<sup>*</sup>, _Chengcheng Wan<sup>†</sup>, Ting Su<sup>†</sup>, Haiying Sun, Geguang Pu_
+**Hang He***, Yixing Luo*, _Chengcheng Wan†, Ting Su†, Haiying Sun, Geguang Pu_
 
 - <span class="lang-en">Clover is a multi-agent framework for detecting atomicity violations in real-world interrupt-driven programs.</span><span class="lang-zh">Clover 是一个用于检测真实中断驱动程序中原子性违反问题的多智能体框架。</span>
 - <span class="lang-en">It combines a Plan Agent with static analysis tools and Expert-Judge agent pairs, enabling iterative detection and validation of atomicity-violation patterns in real aerospace software code.</span><span class="lang-zh">Clover 将 Plan Agent、静态分析工具与 Expert-Judge 智能体对结合起来，支持在真实航天软件代码中对原子性违反模式进行迭代检测与验证。</span>
