@@ -16,6 +16,13 @@ I am currently a second-year graduate student at [East China Normal University](
 
 <span class="lang-en">My research interests include **AI agents**, **reinforcement learning**, and **multimodal large models**.</span><span class="lang-zh">我的研究兴趣包括 **AI Agents**、**强化学习**与**多模态大模型**。</span>
 
+# 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
+- *2026.06*: <span class="lang-en">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** is released on arXiv!</span><span class="lang-zh">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** 已在 arXiv 发布！</span>
+- *2026.05*: <span class="lang-en">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** is accepted by **SIGKDD 2026**!</span><span class="lang-zh">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** 被 **SIGKDD 2026** 录用！</span>
+- *2026.05*: <span class="lang-en">🎉🎉 **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159)** is accepted by **ICML 2026**!</span><span class="lang-zh">🎉🎉 **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159)** 被 **ICML 2026** 录用！</span>
+- *2025.12*: <span class="lang-en">🎉🎉 **[Promoting Efficient Reasoning with Verifiable Stepwise Reward](https://arxiv.org/abs/2508.10293)** is accepted by **AAAI 2026**!</span><span class="lang-zh">🎉🎉 **[Promoting Efficient Reasoning with Verifiable Stepwise Reward](https://arxiv.org/abs/2508.10293)** 被 **AAAI 2026** 录用！</span>
+- *2025.04*: <span class="lang-en">🎉🎉 **[Clover](https://arxiv.org/abs/2504.00521)** is released on arXiv!</span><span class="lang-zh">🎉🎉 **[Clover](https://arxiv.org/abs/2504.00521)** 已在 arXiv 发布！</span>
+
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文发表</span> {#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2026</div><a href="../images/localsearchbench-overview.png"><img src='../images/localsearchbench-overview.png' alt="LocalSearchBench overview" width="100%"></a></div></div>
