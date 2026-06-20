@@ -12,16 +12,16 @@ redirect_from:
 
 <span class="lang-en">
 <!-- I am an incoming Ph.D. student at the [FudanNLP Lab](https://nlp.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/), and [Shanghai Innovation Institute](https://www.sii.edu.cn/), advised by Prof. [Tao Gui (桂韬)](https://guitaowufeng.github.io/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/). -->
-I am currently a second-year graduate student at [East China Normal University](https://www.ecnu.edu.cn/) (2024-), co-advised by Prof. [Chengcheng Wan (万成城)](https://chengcheng-wan.github.io/) and Prof. [Ting Su (苏亭)](https://tingsu.github.io/). I received my B.S. from [China University of Petroleum, Beijing](https://www.cup.edu.cn/) in 2024.</span><span class="lang-zh">我即将加入[复旦大学自然语言处理实验室](https://nlp.fudan.edu.cn/)和[上海创智学院](https://www.sii.edu.cn/)攻读博士学位，在[桂韬](https://guitaowufeng.github.io/)老师和[黄萱菁](https://xuanjing-huang.github.io/)老师的指导下开展研究。目前我是[华东师范大学](https://www.ecnu.edu.cn/)二年级研究生（2024 至今），师从[万成城](https://chengcheng-wan.github.io/)研究员与[苏亭](https://tingsu.github.io/)教授。我于 2024 年在[中国石油大学（北京）](https://www.cup.edu.cn/)获得学士学位。</span>
+I am currently a second-year graduate student at [East China Normal University](https://www.ecnu.edu.cn/) (2024-), co-advised by Prof. [Chengcheng Wan (万成城)](https://chengcheng-wan.github.io/) and Prof. [Ting Su (苏亭)](https://tingsu.github.io/). I received my B.S. from [China University of Petroleum, Beijing](https://www.cup.edu.cn/) in 2024.</span><span class="lang-zh"><!-- 我即将加入[复旦大学自然语言处理实验室](https://nlp.fudan.edu.cn/)和[上海创智学院](https://www.sii.edu.cn/)攻读博士学位，在[桂韬](https://guitaowufeng.github.io/)老师和[黄萱菁](https://xuanjing-huang.github.io/)老师的指导下开展研究。 -->目前我是[华东师范大学](https://www.ecnu.edu.cn/)二年级研究生（2024 至今），师从[万成城](https://chengcheng-wan.github.io/)研究员与[苏亭](https://tingsu.github.io/)教授。我于 2024 年在[中国石油大学（北京）](https://www.cup.edu.cn/)获得学士学位。</span>
 
-<span class="lang-en">My research interests include **AI agents**, **reinforcement learning**, and **multimodal large models**.</span><span class="lang-zh">我的研究兴趣包括 **AI Agents**、**强化学习**与**多模态大模型**。</span>
+<span class="lang-en">My research interests include **Agent & Harness**, **Agentic RL**, **Agentic Tool Call**, and **Multimodal large language models**.</span><span class="lang-zh">我的研究兴趣包括**智能体与任务执行框架（Agent & Harness）**、**面向智能体的强化学习（Agentic RL）**、**智能体工具调用（Agentic Tool Call）**与**多模态大语言模型**。</span>
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
-- *2026.06*: <span class="lang-en">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** is released on arXiv!</span><span class="lang-zh">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** 已在 arXiv 发布！</span>
-- *2026.05*: <span class="lang-en">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** is accepted by **SIGKDD 2026**!</span><span class="lang-zh">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** 被 **SIGKDD 2026** 录用！</span>
-- *2026.05*: <span class="lang-en">🎉🎉 **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159)** is accepted by **ICML 2026**!</span><span class="lang-zh">🎉🎉 **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159)** 被 **ICML 2026** 录用！</span>
-- *2025.12*: <span class="lang-en">🎉🎉 **[Promoting Efficient Reasoning with Verifiable Stepwise Reward](https://arxiv.org/abs/2508.10293)** is accepted by **AAAI 2026**!</span><span class="lang-zh">🎉🎉 **[Promoting Efficient Reasoning with Verifiable Stepwise Reward](https://arxiv.org/abs/2508.10293)** 被 **AAAI 2026** 录用！</span>
-- *2025.04*: <span class="lang-en">🎉🎉 **[Clover](https://arxiv.org/abs/2504.00521)** is released on arXiv!</span><span class="lang-zh">🎉🎉 **[Clover](https://arxiv.org/abs/2504.00521)** 已在 arXiv 发布！</span>
+- *2026.06*: <span class="lang-en">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** is released on arXiv!</span><span class="lang-zh">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** 已发布于 arXiv！</span>
+- *2026.05*: <span class="lang-en">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** is accepted by **SIGKDD 2026**!</span><span class="lang-zh">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** 已被 **SIGKDD 2026** 录用！</span>
+- *2026.05*: <span class="lang-en">🎉🎉 **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159)** is accepted by **ICML 2026**!</span><span class="lang-zh">🎉🎉 **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159)** 已被 **ICML 2026** 录用！</span>
+- *2025.12*: <span class="lang-en">🎉🎉 **[Promoting Efficient Reasoning with Verifiable Stepwise Reward](https://arxiv.org/abs/2508.10293)** is accepted by **AAAI 2026**!</span><span class="lang-zh">🎉🎉 **[Promoting Efficient Reasoning with Verifiable Stepwise Reward](https://arxiv.org/abs/2508.10293)** 已被 **AAAI 2026** 录用！</span>
+- *2025.04*: <span class="lang-en">🎉🎉 **[Clover](https://arxiv.org/abs/2504.00521)** is released on arXiv!</span><span class="lang-zh">🎉🎉 **[Clover](https://arxiv.org/abs/2504.00521)** 已发布于 arXiv！</span>
 
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文发表</span> {#publications}
 
@@ -32,9 +32,9 @@ I am currently a second-year graduate student at [East China Normal University](
 
 **Hang He**, _Chuhuai Yue, Chengqi Dong, Mingxue Tian, Hao Chen, Zhenfeng Liu, Jiajun Chai*, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin†, Wei Lin, Chengcheng Wan†, Haiying Sun, Ting Su†_
 
-- <span class="lang-en">Accepted by **SIGKDD 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">被 **SIGKDD 2026** 录用，<span style="color: red;">CCF A</span>。</span>
+- <span class="lang-en">Accepted by **SIGKDD 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **SIGKDD 2026**，<span style="color: red;">CCF A</span>。</span>
 - <span class="lang-en">LocalSearchBench is the first comprehensive benchmark for agentic search in local life services, built around real-world merchant data, multi-hop user queries, and constraints such as location, time, ratings, prices, and service availability.</span><span class="lang-zh">LocalSearchBench 是首个面向本地生活服务场景的综合 Agentic Search 评测基准，围绕真实商户数据、多跳用户查询，以及位置、时间、评分、价格、服务可用性等约束构建。</span>
-- <span class="lang-en">It introduces LocalPlayground, a unified tool-interaction environment for evaluating whether agents can plan, retrieve, reason, and faithfully synthesize answers across complex local-service workflows.</span><span class="lang-zh">我们进一步构建 LocalPlayground 统一工具交互环境，用于评估智能体在复杂本地生活服务流程中进行规划、检索、推理与忠实答案综合的能力。</span>
+- <span class="lang-en">It introduces LocalPlayground, a unified tool-interaction environment for evaluating whether agents can plan, retrieve, reason, and faithfully synthesize answers across complex local-service workflows.</span><span class="lang-zh">我们进一步构建 LocalPlayground 统一工具交互环境，用于评估智能体在复杂本地生活服务流程中进行规划、检索、推理，并可靠地综合答案的能力。</span>
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.07436) \| [![](https://img.shields.io/badge/Website-fff?logo=googlechrome&logoColor=000)](https://localsearchbench.github.io/) \| [![](https://img.shields.io/badge/Report%20(%E7%BE%8E%E5%9B%A2%E6%8A%80%E6%9C%AF%E5%9B%A2%E9%98%9F)-fff?logo=wechat&logoColor=000)](https://mp.weixin.qq.com/s/-zVRQe4ISf_Sbanc_tVtzg)
 
 </div>
@@ -75,7 +75,7 @@ I am currently a second-year graduate student at [East China Normal University](
 
 Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_
 
-- <span class="lang-en">Accepted by **AAAI 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">被 **AAAI 2026**（<span style="color: red;">CCF A</span>）录用。</span>
+- <span class="lang-en">Accepted by **AAAI 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **AAAI 2026**，<span style="color: red;">CCF A</span>。</span>
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2508.10293) \| [![](https://img.shields.io/badge/Report%20(%E9%87%8F%E5%AD%90%E4%BD%8D)-fff?logo=wechat&logoColor=000)](https://mp.weixin.qq.com/s/8OiJucbM3TkZ0FUTVGnAIA)
 
 </div>
@@ -88,7 +88,7 @@ Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei
 
 Maijunxian Wang, Ruisi Wang, Juyi Lin, Ran Ji, Thaddäus Wiedemer, Qingying Gao, Dezhi Luo, Yaoyao Qian, Lianyu Huang, Zelong Hong, Jiahui Ge, Qianli Ma, **Hang He**, _et al._
 
-- <span class="lang-en">Accepted by **ICML 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">被 **ICML 2026** 录用，<span style="color: red;">CCF A</span>。</span>
+- <span class="lang-en">Accepted by **ICML 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **ICML 2026**，<span style="color: red;">CCF A</span>。</span>
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2602.20159) \| [![](https://img.shields.io/badge/Website-fff?logo=googlechrome&logoColor=000)](https://video-reason.com/) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Video-Reason/VBVR-EvalKit)
 
 </div>
@@ -146,7 +146,7 @@ _Chengqi Dong, Chuhuai Yue_, **Hang He**, _Rongge Mao, Fenghe Tang, S Kevin Zhou
 
 # 💻 <span class="lang-en">Internship</span><span class="lang-zh">实习经历</span> {#internship}
 
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="../images/NEX.svg" alt="NEX-AGI" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**NEX-AGI**, Shanghai Qiji Zhifeng Co., Ltd., Shanghai</span><span class="lang-zh">**NEX-AGI**，上海奇绩智峰，上海</span></span><br><span class="lang-en">*Research directions: long-horizon agent tasks and reinforcement learning*</span><span class="lang-zh">*研究方向：长程任务智能体与强化学习*</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="../images/NEX.svg" alt="NEX-AGI" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**NEX-AGI**, Shanghai Qiji Zhifeng Co., Ltd., Shanghai</span><span class="lang-zh">**NEX-AGI**，上海奇绩智峰，上海</span></span><br><span class="lang-en">*Research directions: long-horizon agent tasks and reinforcement learning*</span><span class="lang-zh">*研究方向：长程智能体任务与强化学习*</span>
 - <span class="lang-en">Advised by Zhou Shao, and [Rui Zheng](https://scholar.google.com/citations?hl=en&user=7Z0V_SoAAAAJ&view_op=list_works&sortby=pubdate).</span><span class="lang-zh">由 Zhou Shao 与 [郑锐](https://scholar.google.com/citations?hl=en&user=7Z0V_SoAAAAJ&view_op=list_works&sortby=pubdate) 指导。</span>
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="../images/themes/美团.png" alt="Meituan" style="max-width: 80px; max-height: 60px;"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**Meituan**, Search and Recommendation Platform Department, Agentic System X (ASX) Team</span><span class="lang-zh">**美团**，搜索和推荐平台部，Agentic System X (ASX) 团队</span></span><br><span class="lang-en">*Research directions: reinforcement learning, multimodal post-training, and multimodal retrieval*</span><span class="lang-zh">*研究方向：强化学习、多模态后训练与多模态检索*</span>
 - <span class="lang-en">Advised by [Jiajun Chai](https://scholar.google.com/citations?user=yDdfap0AAAAJ&hl=en), and [Guojun Yin](https://gjyin.github.io/).</span><span class="lang-zh">由 [Jiajun Chai](https://scholar.google.com/citations?user=yDdfap0AAAAJ&hl=en) 与 [Guojun Yin](https://gjyin.github.io/) 指导。</span>
