@@ -7,9 +7,9 @@
 # server process.
 
 # Site Settings
-title                    : "Hang He"
+title                    : "Hang He (何航)"
 title_separator          : "-"
-name                     : &name "Hang He"
+name                     : &name "Hang He (何航)"
 description              : &description "Personal homepage of Hang He (何航), graduate student at East China Normal University. Research interests: AI agents, reinforcement learning, and multimodal large models."
 sidebar_blurb            : "Personal homepage of Hang He (何航), graduate student at East China Normal University. Research interests: AI agents, reinforcement learning, and multimodal large models."
 sidebar_blurb_zh         : "何航的个人主页，华东师范大学研究生。研究方向包括 AI Agents、强化学习与多模态大模型。"
@@ -24,7 +24,7 @@ google_scholar_stats_use_cdn : true
 author:
   # Biographic information
   avatar           : "images/profile.jpg"
-  name             : "Hang He"
+  name             : "Hang He (何航)"
   name_zh          : "何航"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student at East China Normal University"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "hanghe3"
+  github           : "ahang0712"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
