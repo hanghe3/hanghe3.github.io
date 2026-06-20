@@ -40,6 +40,17 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.author__blurb {
+    width: 100%;
+    text-align: left;
+    text-justify: inter-word;
+
+    .lang-en,
+    .lang-zh {
+        display: block;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

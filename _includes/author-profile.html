@@ -17,7 +17,7 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;"><span class="lang-en">{{ site.sidebar_blurb | default: site.description }}</span><span class="lang-zh">{{ site.sidebar_blurb_zh | default: site.sidebar_blurb | default: site.description }}</span></div></li>
+        <li><div class="author__blurb" style="white-space: normal; margin-bottom: 1em;"><span class="lang-en">{{ site.sidebar_blurb | default: site.description }}</span><span class="lang-zh">{{ site.sidebar_blurb_zh | default: site.sidebar_blurb | default: site.description }}</span></div></li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span class="lang-en">{{ author.location }}</span><span class="lang-zh">{{ author.location_zh | default: author.location }}</span></li>
