@@ -76,6 +76,8 @@ I am currently a second-year graduate student at [East China Normal University](
 Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_
 
 - <span class="lang-en">Accepted by **AAAI 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **AAAI 2026**，<span style="color: red;">CCF A</span>。</span>
+- <span class="lang-en">This work targets the overthinking problem in large reasoning models, where models spend excessive tokens on simple questions and sacrifice inference efficiency.</span><span class="lang-zh">该工作关注大推理模型中的过度思考问题，即模型在简单问题上消耗过多推理 token，从而降低推理效率。</span>
+- <span class="lang-en">It proposes a rule-based Verifiable Stepwise Reward Mechanism (VSRM) that rewards effective intermediate reasoning states and penalizes ineffective steps, reducing output length while preserving reasoning performance.</span><span class="lang-zh">我们提出基于规则的可验证逐步奖励机制（VSRM），对有效中间推理状态给予奖励、对无效步骤进行惩罚，在保持推理性能的同时显著缩短输出长度。</span>
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2508.10293) \| [![](https://img.shields.io/badge/Report%20(%E9%87%8F%E5%AD%90%E4%BD%8D)-fff?logo=wechat&logoColor=000)](https://mp.weixin.qq.com/s/8OiJucbM3TkZ0FUTVGnAIA)
 
 </div>
@@ -86,10 +88,12 @@ Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei
 
 ### A Very Big Video Reasoning Suite
 
-Maijunxian Wang, Ruisi Wang, Juyi Lin, Ran Ji, Thaddäus Wiedemer, Qingying Gao, Dezhi Luo, Yaoyao Qian, Lianyu Huang, Zelong Hong, Jiahui Ge, Qianli Ma, **Hang He**, _et al._
+Maijunxian Wang, Ruisi Wang, _..._, **Hang He**, _..._, Alan Yuille, Yilun Du, Ziming Liu, Bo Li, Dahua Lin, Ziwei Liu, Vikash Kumar, Yijiang Li, Lei Yang, Zhongang Cai, Hokin Deng
 
 - <span class="lang-en">Accepted by **ICML 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **ICML 2026**，<span style="color: red;">CCF A</span>。</span>
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2602.20159) \| [![](https://img.shields.io/badge/Website-fff?logo=googlechrome&logoColor=000)](https://video-reason.com/) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Video-Reason/VBVR-EvalKit)
+- <span class="lang-en">VBVR is a large-scale suite for studying video reasoning beyond visual quality, focusing on spatiotemporal structure such as continuity, interaction, and causality.</span><span class="lang-zh">VBVR 是一个面向视频推理的大规模研究套件，不仅关注视觉质量，还系统考察连续性、交互关系与因果关系等时空结构推理能力。</span>
+- <span class="lang-en">It introduces a dataset spanning 200 curated reasoning tasks and over one million video clips, together with VBVR-Bench, a verifiable evaluation framework with rule-based, human-aligned scorers.</span><span class="lang-zh">该工作构建了覆盖 200 类精心设计推理任务、超过 100 万个视频片段的数据集，并提出 VBVR-Bench 可验证评测框架，通过基于规则且符合人类判断的评分器进行可复现评估。</span>
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2602.20159) \| [![](https://img.shields.io/badge/Website-fff?logo=googlechrome&logoColor=000)](https://video-reason.com/) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Video-Reason/VBVR-EvalKit) \| [![](https://img.shields.io/badge/Report%20(%E6%96%B0%E6%99%BA%E5%85%83)-fff?logo=wechat&logoColor=000)](https://mp.weixin.qq.com/s/XaLnom_nFvnoeFJR506-8w)
 
 </div>
 </div>
