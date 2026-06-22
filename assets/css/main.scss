@@ -51,6 +51,27 @@
     }
 }
 
+.visitor-map {
+    margin-top: 2.5em;
+    padding-top: 1em;
+    border-top: 1px solid #efefef;
+}
+
+.visitor-map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em auto 0;
+    max-width: 420px;
+
+    img,
+    #clustrmaps {
+        max-width: 100%;
+        height: auto;
+        border-radius: 6px;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
