@@ -55,6 +55,12 @@
     margin-top: 2.5em;
     padding-top: 1em;
     border-top: 1px solid #efefef;
+    text-align: center;
+
+    h1 {
+        font-size: $type-size-3;
+        margin-bottom: 0.5em;
+    }
 }
 
 .visitor-map-container {
@@ -62,14 +68,102 @@
     justify-content: center;
     align-items: center;
     margin: 1em auto 0;
-    max-width: 420px;
+    max-width: 170px;
 
-    img,
-    #clustrmaps {
+    a {
+        display: block;
+        line-height: 0;
+    }
+
+    img {
+        display: block;
         max-width: 100%;
         height: auto;
         border-radius: 6px;
     }
+}
+
+.pub-links {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.3em;
+    line-height: 1.4;
+}
+
+.pub-separator {
+    color: #4b5563;
+    font-weight: 700;
+}
+
+.pub-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.26em;
+    min-height: 1.34em;
+    padding: 0.08em 0.38em 0.1em 0.28em;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 5px;
+    background: linear-gradient(180deg, #ffffff 0%, #eeeeee 58%, #dedede 100%);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95), inset 0 -1px 0 rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.14);
+    color: #2f3437;
+    font-size: 0.78em;
+    font-weight: 500;
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+    white-space: nowrap;
+    transition: transform 0.12s ease, box-shadow 0.12s ease;
+
+    &:hover {
+        transform: translateY(-1px);
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95), inset 0 -1px 0 rgba(0, 0, 0, 0.08), 0 3px 7px rgba(0, 0, 0, 0.18);
+        text-decoration: none !important;
+        border-bottom: 0 !important;
+    }
+
+    i,
+    .pub-badge__icon {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        width: 1em;
+        height: 1em;
+        border-radius: 4px;
+        color: #fff;
+        font-size: 0.76em;
+        line-height: 1;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), inset 0 -1px 1px rgba(0, 0, 0, 0.2), 0 1px 1px rgba(0, 0, 0, 0.18);
+    }
+
+    .pub-badge__icon {
+        font-size: 0.74em;
+    }
+}
+
+.pub-badge--hf i,
+.pub-badge--hf .pub-badge__icon {
+    background: linear-gradient(145deg, #ffe767 0%, #ffc107 55%, #e5a100 100%);
+}
+
+.pub-badge--paper i {
+    background: linear-gradient(145deg, #66a6ff 0%, #2f80ed 58%, #1558b0 100%);
+}
+
+.pub-badge--slide i,
+.pub-badge--stars i {
+    background: linear-gradient(145deg, #ffcf54 0%, #f5a400 58%, #cf7600 100%);
+}
+
+.pub-badge--website i {
+    background: linear-gradient(145deg, #70b7ff 0%, #3b82f6 46%, #2563eb 72%, #1d4ed8 100%);
+}
+
+.pub-badge--report i {
+    background: linear-gradient(145deg, #45df85 0%, #07c160 58%, #06964b 100%);
+}
+
+.pub-badge--code i {
+    background: linear-gradient(145deg, #555f6d 0%, #24292f 58%, #111827 100%);
 }
 
 .paper-box {
