@@ -48,7 +48,7 @@ I am currently a second-year graduate student at [East China Normal University](
 
 - <span class="lang-en">VistaHop is a benchmark for Visual DeepSearch, evaluating whether multimodal agents can repeatedly inspect images, ground intermediate reasoning in visual evidence, and connect fine-grained clues across long reasoning chains.</span><span class="lang-zh">VistaHop 是面向 Visual DeepSearch 的评测基准，用于评估多模态智能体能否反复检查图像、将中间推理扎根于视觉证据，并在长推理链中连接细粒度线索。</span>
 - <span class="lang-en">It contains 300 high-resolution images, 25 visual search scenarios, and 350 multi-hop VQA tasks, together with VistaArena, a unified tool-interaction environment for visual retrieval, image inspection, and evidence-grounded reasoning.</span><span class="lang-zh">VistaHop 包含 300 张高分辨率图像、25 类视觉搜索场景与 350 个多跳视觉问答任务，并构建 VistaArena 统一工具交互环境，支持视觉检索、图像检查与基于证据的推理。</span>
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2606.03273"><i class="fas fa-file-alt"></i>Paper</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2606.03273"><i class="fas fa-file-alt"></i>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/ahang0712/vistahop"><i class="fab fa-github"></i>Code</a></span>
 
 </div>
 </div>
