@@ -12,7 +12,7 @@ redirect_from:
 
 <span class="lang-en">
 <!-- I am an incoming Ph.D. student at the [FudanNLP Lab](https://nlp.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/), and [Shanghai Innovation Institute](https://www.sii.edu.cn/), advised by Prof. [Tao Gui (桂韬)](https://guitaowufeng.github.io/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/). -->
-I am currently a second-year graduate student at [East China Normal University](https://www.ecnu.edu.cn/) (2024-), co-advised by Prof. [Chengcheng Wan (万成城)](https://chengcheng-wan.github.io/) and Prof. [Ting Su (苏亭)](https://tingsu.github.io/). I received my B.S. from [China University of Petroleum, Beijing](https://www.cup.edu.cn/) in 2024.</span><span class="lang-zh"><!-- 我即将加入[复旦大学自然语言处理实验室](https://nlp.fudan.edu.cn/)和[上海创智学院](https://www.sii.edu.cn/)攻读博士学位，在[桂韬](https://guitaowufeng.github.io/)老师和[黄萱菁](https://xuanjing-huang.github.io/)老师的指导下开展研究。 -->目前我是[华东师范大学](https://www.ecnu.edu.cn/)二年级研究生（2024 至今），师从[万成城](https://chengcheng-wan.github.io/)研究员与[苏亭](https://tingsu.github.io/)教授。我于 2024 年在[中国石油大学（北京）](https://www.cup.edu.cn/)获得学士学位。</span>
+I am currently a second-year graduate student at [East China Normal University](https://www.ecnu.edu.cn/) (2024-2027), co-advised by Prof. [Chengcheng Wan (万成城)](https://chengcheng-wan.github.io/) and Prof. [Ting Su (苏亭)](https://tingsu.github.io/). I received my B.S. from [China University of Petroleum, Beijing](https://www.cup.edu.cn/) in 2024.</span><span class="lang-zh"><!-- 我即将加入[复旦大学自然语言处理实验室](https://nlp.fudan.edu.cn/)和[上海创智学院](https://www.sii.edu.cn/)攻读博士学位，在[桂韬](https://guitaowufeng.github.io/)老师和[黄萱菁](https://xuanjing-huang.github.io/)老师的指导下开展研究。 -->目前我是[华东师范大学](https://www.ecnu.edu.cn/)二年级研究生（2024-2027），师从[万成城](https://chengcheng-wan.github.io/)研究员与[苏亭](https://tingsu.github.io/)教授。我于 2024 年在[中国石油大学（北京）](https://www.cup.edu.cn/)获得学士学位。</span>
 
 <span class="lang-en">My research interests include **Agent & Harness**, **Agentic RL (Tool Call)**, and **Multimodal large language models**.</span><span class="lang-zh">我的研究兴趣包括**智能体与任务执行框架（Agent & Harness）**、**面向工具调用的智能体强化学习（Agentic RL for Tool Call）**与**多模态大语言模型**。</span>
 
@@ -35,7 +35,7 @@ I am currently a second-year graduate student at [East China Normal University](
 - <span class="lang-en">Accepted by **SIGKDD 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **SIGKDD 2026**，<span style="color: red;">CCF A</span>。</span>
 - <span class="lang-en">LocalSearchBench is the first comprehensive benchmark for agentic search in local life services, built around real-world merchant data, multi-hop user queries, and constraints such as location, time, ratings, prices, and service availability.</span><span class="lang-zh">LocalSearchBench 是首个面向本地生活服务场景的综合 Agentic Search 评测基准，围绕真实商户数据、多跳用户查询，以及位置、时间、评分、价格、服务可用性等约束构建。</span>
 - <span class="lang-en">It introduces LocalPlayground, a unified tool-interaction environment for evaluating whether agents can plan, retrieve, reason, and faithfully synthesize answers across complex local-service workflows.</span><span class="lang-zh">我们进一步构建 LocalPlayground 统一工具交互环境，用于评估智能体在复杂本地生活服务流程中进行规划、检索、推理，并可靠地综合答案的能力。</span>
-- <span class="pub-links"><a class="pub-badge pub-badge--hf" href="https://huggingface.co/datasets/localsearchbench/localsearchbench"><span class="pub-badge__icon">🤗</span>Hugging Face</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.07436"><i class="fas fa-file-alt"></i>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--slide" href="../files/LocalSearchBench.pdf?v=20260625"><i class="fas fa-file-powerpoint"></i>Slide</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--video" href="https://www.bilibili.com/video/BV1nm786eEjC/?spm_id_from=333.1387.homepage.video_card.click"><span class="pub-badge__icon pub-badge__icon--bilibili"><img src="../images/bilibili.svg" alt="" aria-hidden="true"></span>Video</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--website" href="https://localsearchbench.github.io/"><i class="fas fa-globe-americas"></i>Website</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/-zVRQe4ISf_Sbanc_tVtzg"><i class="fab fa-weixin"></i>Report (美团技术团队)</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--hf" href="https://huggingface.co/datasets/localsearchbench/localsearchbench"><span class="pub-badge__icon">🤗</span>Hugging Face</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.07436"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--slide" href="../files/LocalSearchBench.pdf?v=20260625"><i class="fas fa-file-powerpoint"></i>Slide</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--video" href="https://www.bilibili.com/video/BV1nm786eEjC/?spm_id_from=333.1387.homepage.video_card.click"><span class="pub-badge__icon pub-badge__icon--bilibili"><img src="../images/bilibili.svg" alt="" aria-hidden="true"></span>Video</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--website" href="https://localsearchbench.github.io/"><i class="fas fa-globe-americas"></i>Website</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/-zVRQe4ISf_Sbanc_tVtzg"><i class="fab fa-weixin"></i>Report (美团技术团队)</a></span>
 
 </div>
 </div>
@@ -49,7 +49,7 @@ I am currently a second-year graduate student at [East China Normal University](
 
 - <span class="lang-en">VistaHop is a benchmark for Visual DeepSearch, evaluating whether multimodal agents can repeatedly inspect images, ground intermediate reasoning in visual evidence, and connect fine-grained clues across long reasoning chains.</span><span class="lang-zh">VistaHop 是面向 Visual DeepSearch 的评测基准，用于评估多模态智能体能否反复检查图像、将中间推理扎根于视觉证据，并在长推理链中连接细粒度线索。</span>
 - <span class="lang-en">It contains 300 high-resolution images, 25 visual search scenarios, and 350 multi-hop VQA tasks, together with VistaArena, a unified tool-interaction environment for visual retrieval, image inspection, and evidence-grounded reasoning.</span><span class="lang-zh">VistaHop 包含 300 张高分辨率图像、25 类视觉搜索场景与 350 个多跳视觉问答任务，并构建 VistaArena 统一工具交互环境，支持视觉检索、图像检查与基于证据的推理。</span>
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2606.03273"><i class="fas fa-file-alt"></i>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/ahang0712/vistahop"><i class="fab fa-github"></i>Code</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2606.03273"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/ahang0712/vistahop"><i class="fab fa-github"></i>Code</a></span>
 
 </div>
 </div>
@@ -63,7 +63,7 @@ I am currently a second-year graduate student at [East China Normal University](
 
 - <span class="lang-en">Clover is a multi-agent framework for detecting atomicity violations in real-world interrupt-driven programs.</span><span class="lang-zh">Clover 是一个用于检测真实中断驱动程序中原子性违反问题的多智能体框架。</span>
 - <span class="lang-en">It combines a Plan Agent with static analysis tools and Expert-Judge agent pairs, enabling iterative detection and validation of atomicity-violation patterns in real aerospace software code.</span><span class="lang-zh">Clover 将 Plan Agent、静态分析工具与 Expert-Judge 智能体对结合起来，支持在真实航天软件代码中对原子性违反模式进行迭代检测与验证。</span>
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2504.00521"><i class="fas fa-file-alt"></i>Paper</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2504.00521"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a></span>
 
 </div>
 </div>
@@ -78,7 +78,7 @@ Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei
 - <span class="lang-en">Accepted by **AAAI 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **AAAI 2026**，<span style="color: red;">CCF A</span>。</span>
 - <span class="lang-en">This work targets the overthinking problem in large reasoning models, where models spend excessive tokens on simple questions and sacrifice inference efficiency.</span><span class="lang-zh">该工作关注大推理模型中的过度思考问题，即模型在简单问题上消耗过多推理 token，从而降低推理效率。</span>
 - <span class="lang-en">It proposes a rule-based Verifiable Stepwise Reward Mechanism (VSRM) that rewards effective intermediate reasoning states and penalizes ineffective steps, reducing output length while preserving reasoning performance.</span><span class="lang-zh">我们提出基于规则的可验证逐步奖励机制（VSRM），对有效中间推理状态给予奖励、对无效步骤进行惩罚，在保持推理性能的同时显著缩短输出长度。</span>
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2508.10293"><i class="fas fa-file-alt"></i>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/8OiJucbM3TkZ0FUTVGnAIA"><i class="fab fa-weixin"></i>Report (量子位)</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2508.10293"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/8OiJucbM3TkZ0FUTVGnAIA"><i class="fab fa-weixin"></i>Report (量子位)</a></span>
 
 </div>
 </div>
@@ -93,7 +93,7 @@ Maijunxian Wang, Ruisi Wang, _..._, **Hang He**, _..._, Alan Yuille, Yilun Du, Z
 - <span class="lang-en">Accepted by **ICML 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **ICML 2026**，<span style="color: red;">CCF A</span>。</span>
 - <span class="lang-en">VBVR is a large-scale suite for studying video reasoning beyond visual quality, focusing on spatiotemporal structure such as continuity, interaction, and causality.</span><span class="lang-zh">VBVR 是一个面向视频推理的大规模研究套件，不仅关注视觉质量，还系统考察连续性、交互关系与因果关系等时空结构推理能力。</span>
 - <span class="lang-en">It introduces a dataset spanning 200 curated reasoning tasks and over one million video clips, together with VBVR-Bench, a verifiable evaluation framework with rule-based, human-aligned scorers.</span><span class="lang-zh">该工作构建了覆盖 200 类精心设计推理任务、超过 100 万个视频片段的数据集，并提出 VBVR-Bench 可验证评测框架，通过基于规则且符合人类判断的评分器进行可复现评估。</span>
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2602.20159"><i class="fas fa-file-alt"></i>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--website" href="https://video-reason.com/"><i class="fas fa-globe-americas"></i>Website</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Video-Reason/VBVR-EvalKit"><i class="fab fa-github"></i>Code</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/XaLnom_nFvnoeFJR506-8w"><i class="fab fa-weixin"></i>Report (新智元)</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2602.20159"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--website" href="https://video-reason.com/"><i class="fas fa-globe-americas"></i>Website</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Video-Reason/VBVR-EvalKit"><i class="fab fa-github"></i>Code</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/XaLnom_nFvnoeFJR506-8w"><i class="fab fa-weixin"></i>Report (新智元)</a></span>
 
 </div>
 </div>
@@ -107,7 +107,7 @@ Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang,
 
 - <span class="lang-en">RLFactory is a plug-and-play reinforcement learning post-training framework for multi-turn tool-use agents, integrating rollout generation, reward design, and RL training into a unified workflow.</span><span class="lang-zh">RLFactory 是一个面向多轮工具调用智能体的即插即用式强化学习后训练框架，将轨迹生成、奖励设计与强化学习训练整合到统一流程中。</span>
 - <span class="lang-en">It supports efficient training for LLM agents across text and multimodal tool-use scenarios, making it easier to build, evaluate, and iterate on tool-augmented agent systems.</span><span class="lang-zh">该框架支持在文本与多模态工具调用场景中高效训练大模型智能体，便于构建、评估和迭代工具增强型智能体系统。</span>
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2509.06980"><i class="fas fa-file-alt"></i>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Simple-Efficient/RL-Factory"><i class="fab fa-github"></i>Code</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/jvqBJU1gsvkKkeBX_R0fnw"><i class="fab fa-weixin"></i>Report (深度学习与自然语言处理)</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--stars" href="https://github.com/Simple-Efficient/RL-Factory" data-github-stars="Simple-Efficient/RL-Factory"><i class="fas fa-star"></i><span class="github-stars-count">Stars</span></a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2509.06980"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Simple-Efficient/RL-Factory"><i class="fab fa-github"></i>Code</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/jvqBJU1gsvkKkeBX_R0fnw"><i class="fab fa-weixin"></i>Report (深度学习与自然语言处理)</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--stars" href="https://github.com/Simple-Efficient/RL-Factory" data-github-stars="Simple-Efficient/RL-Factory"><i class="fas fa-star"></i><span class="github-stars-count">Stars</span></a></span>
 
 </div>
 </div>
@@ -119,7 +119,7 @@ Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang,
 
 Chengqi Dong, Chuhuai Yue, **Hang He**, _Yandong Liu, Fenghe Tang, S Kevin Zhou, Xiaohan Wang, Jiajun Chai, Guojun Yin_
 
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2606.05784"><i class="fas fa-file-alt"></i>Paper</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2606.05784"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a></span>
 
 </div>
 </div>
@@ -131,7 +131,7 @@ Chengqi Dong, Chuhuai Yue, **Hang He**, _Yandong Liu, Fenghe Tang, S Kevin Zhou,
 
 Hao Chen, Zhexin Hu, Jiajun Chai, Haocheng Yang, **Hang He**, _Xiaohan Wang, Wei Lin, Luhang Wang, Guojun Yin, Zhuofeng Zhao_
 
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.16149"><i class="fas fa-file-alt"></i>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Buycar-arb/ToolForge"><i class="fab fa-github"></i>Code</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.16149"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Buycar-arb/ToolForge"><i class="fab fa-github"></i>Code</a></span>
 
 </div>
 </div>
@@ -143,7 +143,7 @@ Hao Chen, Zhexin Hu, Jiajun Chai, Haocheng Yang, **Hang He**, _Xiaohan Wang, Wei
 
 _Chengqi Dong, Chuhuai Yue_, **Hang He**, _Rongge Mao, Fenghe Tang, S Kevin Zhou, Zekun Xu, Xiaohan Wang, Jiajun Chai, Wei Lin, Guojun Yin_
 
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.08980"><i class="fas fa-file-alt"></i>Paper</a></span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.08980"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a></span>
 
 </div>
 </div>
