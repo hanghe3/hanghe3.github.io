@@ -16,6 +16,8 @@ I am currently a second-year graduate student at [East China Normal University](
 
 <span class="lang-en">My research interests include **Agent & Harness**, **Agentic RL (Tool Call)**, and **Multimodal large language models**.</span><span class="lang-zh">我的研究兴趣包括**智能体与任务执行框架（Agent & Harness）**、**面向工具调用的智能体强化学习（Agentic RL for Tool Call）**与**多模态大语言模型**。</span>
 
+<span class="lang-en">Feel free to reach out by email; I am always happy to discuss research ideas and collaborations. ✉️</span><span class="lang-zh">欢迎通过邮件联系我，我很乐意交流研究想法与合作机会。✉️</span>
+
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
 - *2026.06*: <span class="lang-en">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** is released on arXiv!</span><span class="lang-zh">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** 已发布于 arXiv！</span>
 - *2026.05*: <span class="lang-en">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** is accepted by **SIGKDD 2026**!</span><span class="lang-zh">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** 已被 **SIGKDD 2026** 录用！</span>
