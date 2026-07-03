@@ -10,9 +10,9 @@
 title                    : "Hang He (何航)"
 title_separator          : "-"
 name                     : &name "Hang He (何航)"
-description              : &description "Personal homepage of Hang He (何航), graduate student at East China Normal University. Research interests: Agent & Harness, Agentic RL (Tool Call), and multimodal large language models."
-sidebar_blurb            : "Personal homepage of Hang He (何航), graduate student at East China Normal University. Research interests: Agent & Harness, Agentic RL (Tool Call), and multimodal large language models."
-sidebar_blurb_zh         : "何航的个人主页，华东师范大学研究生。研究方向包括智能体与任务执行框架、面向工具调用的智能体强化学习，以及多模态大语言模型。"
+description              : &description "Personal homepage of Hang He (何航), graduate student at East China Normal University."
+sidebar_blurb            : "Personal homepage of Hang He (何航), graduate student at East China Normal University."
+sidebar_blurb_zh         : "何航的个人主页，华东师范大学研究生。"
 url                      : https://hanghe3.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanghe3/hanghe3.github.io"
