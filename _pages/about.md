@@ -32,9 +32,11 @@ I am currently a second-year graduate student at [East China Normal University](
 
 ### LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services
 
-**Hang He**, _Chuhuai Yue, Chengqi Dong, Mingxue Tian, Hao Chen, Zhenfeng Liu, Jiajun Chai*, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin†, Wei Lin, Chengcheng Wan†, Haiying Sun, Ting Su†_
+**Hang He**, _Chuhuai Yue, Chengqi Dong, Mingxue Tian, Hao Chen, Zhenfeng Liu, Jiajun Chai*, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin<sup>#</sup>, Wei Lin, Chengcheng Wan<sup>#</sup>, Haiying Sun, Ting Su<sup>#</sup>_
 
-- <span class="lang-en">Accepted by **SIGKDD 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **SIGKDD 2026**，<span style="color: red;">CCF A</span>。</span>
+(# corresponding author)
+
+- <span class="lang-en">Accepted by **SIGKDD 2026** <span class="ccf-badge">CCF A</span>.</span><span class="lang-zh">录用于 **SIGKDD 2026**，<span class="ccf-badge">CCF A</span>。</span>
 - <span class="lang-en">LocalSearchBench is the first comprehensive benchmark for agentic search in local life services, built around real-world merchant data, multi-hop user queries, and constraints such as location, time, ratings, prices, and service availability.</span><span class="lang-zh">LocalSearchBench 是首个面向本地生活服务场景的综合 Agentic Search 评测基准，围绕真实商户数据、多跳用户查询，以及位置、时间、评分、价格、服务可用性等约束构建。</span>
 - <span class="lang-en">It introduces LocalPlayground, a unified tool-interaction environment for evaluating whether agents can plan, retrieve, reason, and faithfully synthesize answers across complex local-service workflows.</span><span class="lang-zh">我们进一步构建 LocalPlayground 统一工具交互环境，用于评估智能体在复杂本地生活服务流程中进行规划、检索、推理，并可靠地综合答案的能力。</span>
 - <span class="pub-links"><a class="pub-badge pub-badge--hf" href="https://huggingface.co/datasets/localsearchbench/localsearchbench"><span class="pub-badge__icon">🤗</span>Hugging Face</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.07436"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--slide" href="../files/LocalSearchBench.pdf?v=20260625"><i class="fas fa-file-powerpoint"></i>Slide</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--video" href="https://www.bilibili.com/video/BV1nm786eEjC/?spm_id_from=333.1387.homepage.video_card.click"><span class="pub-badge__icon pub-badge__icon--bilibili"><img src="../images/bilibili.svg" alt="" aria-hidden="true"></span>Video (Bilibili)</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--rednote" href="https://www.xiaohongshu.com/explore/6a47289a00000000160263ce?xsec_token=AB79BhpzBYnWNjyyJjIytt5B5fAnBwjN1qWZINRE_Kycw=&amp;xsec_source=pc_user"><span class="pub-badge__icon pub-badge__icon--rednote"><img src="../images/rednote.svg" alt="" aria-hidden="true"></span>Video (Rednote)</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--website" href="https://localsearchbench.github.io/"><i class="fas fa-globe-americas"></i>Project Page</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/-zVRQe4ISf_Sbanc_tVtzg"><i class="fab fa-weixin"></i>Report (美团技术团队)</a></span>
@@ -47,7 +49,9 @@ I am currently a second-year graduate student at [East China Normal University](
 
 ### VistaHop: Benchmarking Multi-hop Visual Reasoning for Visual DeepSearch
 
-**Hang He**, _Chuhuai Yue, Chengqi Dong, Chengcheng Wan†, Ting Su, Haiying Sun, Jiajun Chai, Xiaohan Wang, Guojun Yin†_
+**Hang He**, _Chuhuai Yue, Chengqi Dong, Chengcheng Wan<sup>#</sup>, Ting Su, Haiying Sun, Jiajun Chai, Xiaohan Wang, Guojun Yin<sup>#</sup>_
+
+(# corresponding author)
 
 - <span class="lang-en">VistaHop is a benchmark for Visual DeepSearch, evaluating whether multimodal agents can repeatedly inspect images, ground intermediate reasoning in visual evidence, and connect fine-grained clues across long reasoning chains.</span><span class="lang-zh">VistaHop 是面向 Visual DeepSearch 的评测基准，用于评估多模态智能体能否反复检查图像、将中间推理扎根于视觉证据，并在长推理链中连接细粒度线索。</span>
 - <span class="lang-en">It contains 300 high-resolution images, 25 visual search scenarios, and 350 multi-hop VQA tasks, together with VistaArena, a unified tool-interaction environment for visual retrieval, image inspection, and evidence-grounded reasoning.</span><span class="lang-zh">VistaHop 包含 300 张高分辨率图像、25 类视觉搜索场景与 350 个多跳视觉问答任务，并构建 VistaArena 统一工具交互环境，支持视觉检索、图像检查与基于证据的推理。</span>
@@ -61,7 +65,9 @@ I am currently a second-year graduate student at [East China Normal University](
 
 ### Automated Detection of Atomicity Violations in Large-Scale Systems
 
-**Hang He***, Yixing Luo*, _Chengcheng Wan†, Ting Su†, Haiying Sun, Geguang Pu_
+**Hang He***, Yixing Luo*, _Chengcheng Wan<sup>#</sup>, Ting Su<sup>#</sup>, Haiying Sun, Geguang Pu_
+
+(# corresponding author)
 
 - <span class="lang-en">Clover is a multi-agent framework for detecting atomicity violations in real-world interrupt-driven programs.</span><span class="lang-zh">Clover 是一个用于检测真实中断驱动程序中原子性违反问题的多智能体框架。</span>
 - <span class="lang-en">It combines a Plan Agent with static analysis tools and Expert-Judge agent pairs, enabling iterative detection and validation of atomicity-violation patterns in real aerospace software code.</span><span class="lang-zh">Clover 将 Plan Agent、静态分析工具与 Expert-Judge 智能体对结合起来，支持在真实航天软件代码中对原子性违反模式进行迭代检测与验证。</span>
@@ -77,7 +83,7 @@ I am currently a second-year graduate student at [East China Normal University](
 
 Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_
 
-- <span class="lang-en">Accepted by **AAAI 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **AAAI 2026**，<span style="color: red;">CCF A</span>。</span>
+- <span class="lang-en">Accepted by **AAAI 2026** <span class="ccf-badge">CCF A</span>.</span><span class="lang-zh">录用于 **AAAI 2026**，<span class="ccf-badge">CCF A</span>。</span>
 - <span class="lang-en">This work targets the overthinking problem in large reasoning models, where models spend excessive tokens on simple questions and sacrifice inference efficiency.</span><span class="lang-zh">该工作关注大推理模型中的过度思考问题，即模型在简单问题上消耗过多推理 token，从而降低推理效率。</span>
 - <span class="lang-en">It proposes a rule-based Verifiable Stepwise Reward Mechanism (VSRM) that rewards effective intermediate reasoning states and penalizes ineffective steps, reducing output length while preserving reasoning performance.</span><span class="lang-zh">我们提出基于规则的可验证逐步奖励机制（VSRM），对有效中间推理状态给予奖励、对无效步骤进行惩罚，在保持推理性能的同时显著缩短输出长度。</span>
 - <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2508.10293"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/8OiJucbM3TkZ0FUTVGnAIA"><i class="fab fa-weixin"></i>Report (量子位)</a></span>
@@ -92,7 +98,7 @@ Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei
 
 Maijunxian Wang, Ruisi Wang, _..._, **Hang He**, _..._, Alan Yuille, Yilun Du, Ziming Liu, Bo Li, Dahua Lin, Ziwei Liu, Vikash Kumar, Yijiang Li, Lei Yang, Zhongang Cai, Hokin Deng
 
-- <span class="lang-en">Accepted by **ICML 2026** <span style="color: red;">(CCF A)</span>.</span><span class="lang-zh">录用于 **ICML 2026**，<span style="color: red;">CCF A</span>。</span>
+- <span class="lang-en">Accepted by **ICML 2026** <span class="ccf-badge">CCF A</span>.</span><span class="lang-zh">录用于 **ICML 2026**，<span class="ccf-badge">CCF A</span>。</span>
 - <span class="lang-en">VBVR is a large-scale suite for studying video reasoning beyond visual quality, focusing on spatiotemporal structure such as continuity, interaction, and causality.</span><span class="lang-zh">VBVR 是一个面向视频推理的大规模研究套件，不仅关注视觉质量，还系统考察连续性、交互关系与因果关系等时空结构推理能力。</span>
 - <span class="lang-en">It introduces a dataset spanning 200 curated reasoning tasks and over one million video clips, together with VBVR-Bench, a verifiable evaluation framework with rule-based, human-aligned scorers.</span><span class="lang-zh">该工作构建了覆盖 200 类精心设计推理任务、超过 100 万个视频片段的数据集，并提出 VBVR-Bench 可验证评测框架，通过基于规则且符合人类判断的评分器进行可复现评估。</span>
 - <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2602.20159"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--website" href="https://video-reason.com/"><i class="fas fa-globe-americas"></i>Project Page</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Video-Reason/VBVR-EvalKit"><i class="fab fa-github"></i>Code</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--report" href="https://mp.weixin.qq.com/s/XaLnom_nFvnoeFJR506-8w"><i class="fab fa-weixin"></i>Report (新智元)</a></span>
