@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <span class="lang-en">
-I am an incoming Ph.D. student at the <a class="affiliation-link" href="https://cs.fudan.edu.cn/"><img class="affiliation-icon" src="../images/fudan-csai-icon.png" alt="" aria-hidden="true">College of Computer Science and Artificial Intelligence</a> of <a class="affiliation-link" href="https://www.fudan.edu.cn/"><img class="affiliation-icon" src="../images/fudan-icon.png" alt="" aria-hidden="true">Fudan University</a> and <a class="affiliation-link" href="https://www.sii.edu.cn/"><img class="affiliation-icon" src="../images/sii-icon.png" alt="" aria-hidden="true">Shanghai Innovation Institute</a>, as a member of the <a class="affiliation-link" href="https://nlp.fudan.edu.cn/"><img class="affiliation-icon" src="../images/fudannlp-icon.png" alt="" aria-hidden="true">FudanNLP Lab</a>, advised by Associate Prof. [Tao Gui (桂韬)](https://guitaowufeng.github.io/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/). My research interests include **Agent & Harness**, **Agentic RL (Tool Call)**, and **Multimodal large language models**.
+I am an incoming Ph.D. student at the <a class="affiliation-link" href="https://cs.fudan.edu.cn/"><img class="affiliation-icon affiliation-icon-round" src="../images/fudan-csai-icon.png" alt="" aria-hidden="true">College of Computer Science and Artificial Intelligence</a> of <a class="affiliation-link" href="https://www.fudan.edu.cn/"><img class="affiliation-icon affiliation-icon-round" src="../images/fudan-icon.png" alt="" aria-hidden="true">Fudan University</a> and <a class="affiliation-link" href="https://www.sii.edu.cn/"><img class="affiliation-icon affiliation-icon-sii" src="../images/sii-icon.png" alt="" aria-hidden="true">Shanghai Innovation Institute</a>, as a member of the <a class="affiliation-link" href="https://nlp.fudan.edu.cn/"><img class="affiliation-icon affiliation-icon-round" src="../images/fudannlp-icon.png" alt="" aria-hidden="true">FudanNLP Lab</a>, advised by Associate Prof. [Tao Gui (桂韬)](https://guitaowufeng.github.io/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/). My research interests include **Agent & Harness**, **Agentic RL (Tool Call)**, and **Multimodal large language models**.
 I am also a second-year graduate student at [East China Normal University](https://www.ecnu.edu.cn/) (2024-2027), where I am advised by Prof. [Chengcheng Wan (万成城)](https://chengcheng-wan.github.io/) and Prof. [Ting Su (苏亭)](https://tingsu.github.io/).</span><span class="lang-zh">我即将作为[复旦大学自然语言处理实验室](https://nlp.fudan.edu.cn/)成员，加入[复旦大学](https://www.fudan.edu.cn/)[计算与智能创新学院](https://cs.fudan.edu.cn/)和[上海创智学院](https://www.sii.edu.cn/)攻读博士学位，由[桂韬](https://guitaowufeng.github.io/)老师和[黄萱菁](https://xuanjing-huang.github.io/)老师指导。我的研究兴趣包括**智能体与任务执行框架（Agent & Harness）**、**面向工具调用的智能体强化学习（Agentic RL for Tool Call）**与**多模态大语言模型**。我也正在[华东师范大学](https://www.ecnu.edu.cn/)攻读硕士学位（2024-2027），受到[万成城](https://chengcheng-wan.github.io/)研究员与[苏亭](https://tingsu.github.io/)教授指导。</span>
 
 <span class="lang-en">You can find my full publications on [Google Scholar](https://scholar.google.com/citations?user=jB60BNsAAAAJ&hl=zh-CN). <a class="contact-email-link" href="mailto:hehang712@sina.com" aria-label="Email Hang He"><i class="fas fa-envelope contact-icon" aria-hidden="true"></i></a>Feel free to reach out by email; I am always happy to discuss research ideas and collaborations.</span><span class="lang-zh">我的完整论文列表可见于 [Google Scholar](https://scholar.google.com/citations?user=jB60BNsAAAAJ&hl=zh-CN)。<a class="contact-email-link" href="mailto:hehang712@sina.com" aria-label="给何航发邮件"><i class="fas fa-envelope contact-icon" aria-hidden="true"></i></a>欢迎通过邮件联系我，我很乐意交流研究想法与合作机会。</span>
@@ -30,6 +30,8 @@ I am also a second-year graduate student at [East China Normal University](https
 
 ### LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services
 
+<span class="paper-tags"><span class="paper-tag paper-tag--agent">Agent & Harness</span><span class="paper-tag paper-tag--benchmark">Benchmark</span><span class="paper-tag paper-tag--search">Agentic Search</span></span>
+
 **Hang He**, _Chuhuai Yue, Chengqi Dong, Mingxue Tian, Hao Chen, Zhenfeng Liu, Jiajun Chai*, Xiaohan Wang, Yufei Zhang, Qun Liao, Guojun Yin<sup>#</sup>, Wei Lin, Chengcheng Wan<sup>#</sup>, Haiying Sun, Ting Su<sup>#</sup>_
 
 (# corresponding author)
@@ -47,6 +49,8 @@ I am also a second-year graduate student at [East China Normal University](https
 
 ### VistaHop: Benchmarking Multi-hop Visual Reasoning for Visual DeepSearch
 
+<span class="paper-tags"><span class="paper-tag paper-tag--multimodal">Multimodal LLM</span><span class="paper-tag paper-tag--benchmark">Benchmark</span><span class="paper-tag paper-tag--search">Visual DeepSearch</span></span>
+
 **Hang He**, _Chuhuai Yue, Chengqi Dong, Chengcheng Wan<sup>#</sup>, Ting Su, Haiying Sun, Jiajun Chai, Xiaohan Wang, Guojun Yin<sup>#</sup>_
 
 (# corresponding author)
@@ -62,6 +66,8 @@ I am also a second-year graduate student at [East China Normal University](https
 <div class='paper-box-text' markdown="1">
 
 ### Automated Detection of Atomicity Violations in Large-Scale Systems
+
+<span class="paper-tags"><span class="paper-tag paper-tag--agent">Agent & Harness</span><span class="paper-tag paper-tag--systems">Program Analysis</span><span class="paper-tag paper-tag--systems">Software Systems</span></span>
 
 **Hang He***, Yixing Luo*, _Chengcheng Wan<sup>#</sup>, Ting Su<sup>#</sup>, Haiying Sun, Geguang Pu_
 
@@ -79,6 +85,8 @@ I am also a second-year graduate student at [East China Normal University](https
 
 ### Promoting Efficient Reasoning with Verifiable Stepwise Reward
 
+<span class="paper-tags"><span class="paper-tag paper-tag--rl">Agentic RL</span><span class="paper-tag paper-tag--reasoning">Efficient Reasoning</span><span class="paper-tag paper-tag--reward">Reward Design</span></span>
+
 Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_
 
 - <span class="lang-en">Accepted by **AAAI 2026** <span class="ccf-badge">CCF A</span>.</span><span class="lang-zh">录用于 **AAAI 2026**，<span class="ccf-badge">CCF A</span>。</span>
@@ -93,6 +101,8 @@ Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei
 <div class='paper-box-text' markdown="1">
 
 ### A Very Big Video Reasoning Suite
+
+<span class="paper-tags"><span class="paper-tag paper-tag--multimodal">Multimodal LLM</span><span class="paper-tag paper-tag--benchmark">Benchmark</span><span class="paper-tag paper-tag--reasoning">Video Reasoning</span></span>
 
 Maijunxian Wang, Ruisi Wang, _..._, **Hang He**, _..._, Alan Yuille, Yilun Du, Ziming Liu, Bo Li, Dahua Lin, Ziwei Liu, Vikash Kumar, Yijiang Li, Lei Yang, Zhongang Cai, Hokin Deng
 
@@ -109,6 +119,8 @@ Maijunxian Wang, Ruisi Wang, _..._, **Hang He**, _..._, Alan Yuille, Yilun Du, Z
 
 ### RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use
 
+<span class="paper-tags"><span class="paper-tag paper-tag--rl">Agentic RL</span><span class="paper-tag paper-tag--tool">Tool Call</span><span class="paper-tag paper-tag--framework">Framework</span></span>
+
 Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_
 
 - <span class="lang-en">RLFactory is a plug-and-play reinforcement learning post-training framework for multi-turn tool-use agents, integrating rollout generation, reward design, and RL training into a unified workflow.</span><span class="lang-zh">RLFactory 是一个面向多轮工具调用智能体的即插即用式强化学习后训练框架，将轨迹生成、奖励设计与强化学习训练整合到统一流程中。</span>
@@ -123,6 +135,8 @@ Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang,
 
 ### TAPO: Tool-Aware Policy Optimization via Credit Transfer for Multimodal Search Agents
 
+<span class="paper-tags"><span class="paper-tag paper-tag--rl">Agentic RL</span><span class="paper-tag paper-tag--tool">Tool Call</span><span class="paper-tag paper-tag--multimodal">Multimodal Search</span></span>
+
 Chengqi Dong, Chuhuai Yue, **Hang He**, _Yandong Liu, Fenghe Tang, S Kevin Zhou, Xiaohan Wang, Jiajun Chai, Guojun Yin_
 
 - <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2606.05784"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a></span>
@@ -135,6 +149,8 @@ Chengqi Dong, Chuhuai Yue, **Hang He**, _Yandong Liu, Fenghe Tang, S Kevin Zhou,
 
 ### ToolForge: A Data Synthesis Pipeline for Multi-Hop Search without Real-World APIs
 
+<span class="paper-tags"><span class="paper-tag paper-tag--agent">Agent & Harness</span><span class="paper-tag paper-tag--data">Data Synthesis</span><span class="paper-tag paper-tag--search">Multi-hop Search</span></span>
+
 Hao Chen, Zhexin Hu, Jiajun Chai, Haocheng Yang, **Hang He**, _Xiaohan Wang, Wei Lin, Luhang Wang, Guojun Yin, Zhuofeng Zhao_
 
 - <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.16149"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Buycar-arb/ToolForge"><i class="fab fa-github"></i>Code</a></span>
@@ -146,6 +162,8 @@ Hao Chen, Zhexin Hu, Jiajun Chai, Haocheng Yang, **Hang He**, _Xiaohan Wang, Wei
 <div class='paper-box-text' markdown="1">
 
 ### Training Multi-Image Vision Agents via End2End Reinforcement Learning
+
+<span class="paper-tags"><span class="paper-tag paper-tag--rl">Agentic RL</span><span class="paper-tag paper-tag--multimodal">Multimodal LLM</span><span class="paper-tag paper-tag--tool">Vision Agent</span></span>
 
 _Chengqi Dong, Chuhuai Yue_, **Hang He**, _Rongge Mao, Fenghe Tang, S Kevin Zhou, Zekun Xu, Xiaohan Wang, Jiajun Chai, Wei Lin, Guojun Yin_
 
