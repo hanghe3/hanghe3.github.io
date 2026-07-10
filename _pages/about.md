@@ -17,6 +17,7 @@ I am also a second-year graduate student at [East China Normal University](https
 <span class="lang-en">You can find my full publications on [Google Scholar](https://scholar.google.com/citations?user=jB60BNsAAAAJ&hl=zh-CN). <a class="contact-email-link" href="mailto:hehang712@sina.com" aria-label="Email Hang He"><i class="fas fa-envelope contact-icon" aria-hidden="true"></i></a>Feel free to reach out by email; I am always happy to discuss research ideas and collaborations.</span><span class="lang-zh">我的完整论文列表可见于 [Google Scholar](https://scholar.google.com/citations?user=jB60BNsAAAAJ&hl=zh-CN)。<a class="contact-email-link" href="mailto:hehang712@sina.com" aria-label="给何航发邮件"><i class="fas fa-envelope contact-icon" aria-hidden="true"></i></a>欢迎通过邮件联系我，我很乐意交流研究想法与合作机会。</span>
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
+- *2026.07*: <span class="lang-en">🎉🎉 **[IMAgent](https://arxiv.org/abs/2512.08980)** is accepted by **ACM MM 2026**!</span><span class="lang-zh">🎉🎉 **[IMAgent](https://arxiv.org/abs/2512.08980)** 已被 **ACM MM 2026** 录用！</span>
 - *2026.06*: <span class="lang-en">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** is released on arXiv!</span><span class="lang-zh">🎉🎉 **[VistaHop](https://arxiv.org/abs/2606.03273)** 已发布于 arXiv！</span>
 - *2026.05*: <span class="lang-en">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** is accepted by **SIGKDD 2026**!</span><span class="lang-zh">🎉🎉 **[LocalSearchBench](https://arxiv.org/abs/2512.07436)** 已被 **SIGKDD 2026** 录用！</span>
 - *2026.05*: <span class="lang-en">🎉🎉 **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159)** is accepted by **ICML 2026**!</span><span class="lang-zh">🎉🎉 **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159)** 已被 **ICML 2026** 录用！</span>
@@ -114,6 +115,23 @@ Maijunxian Wang, Ruisi Wang, _..._, **Hang He**, _..._, Alan Yuille, Yilun Du, Z
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><a href="../images/miva-model.png"><img src='../images/miva-model.png' alt="Training Multi-Image Vision Agents overview" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Training Multi-Image Vision Agents via End2End Reinforcement Learning
+
+<span class="paper-tags"><span class="paper-tag paper-tag--rl">Agentic RL</span><span class="paper-tag paper-tag--multimodal">Multimodal LLM</span><span class="paper-tag paper-tag--tool">Vision Agent</span></span>
+
+_Chengqi Dong, Chuhuai Yue_, **Hang He**, _Rongge Mao, Fenghe Tang, S Kevin Zhou, Zekun Xu, Xiaohan Wang, Jiajun Chai, Wei Lin, Guojun Yin_
+
+- <span class="lang-en">Accepted by **ACM MM 2026** <span class="ccf-badge">CCF A</span>.</span><span class="lang-zh">录用于 **ACM MM 2026**，<span class="ccf-badge">CCF A</span>。</span>
+- <span class="lang-en">IMAgent is an open-source visual agent trained with end-to-end reinforcement learning for fine-grained single- and multi-image reasoning.</span><span class="lang-zh">IMAgent 是一个通过端到端强化学习训练的开源视觉智能体，面向细粒度单图与多图视觉推理任务。</span>
+- <span class="lang-en">It introduces visual reflection and verification tools, together with RL strategies for tool-use learning, enabling VLM agents to actively refocus on image evidence and achieve strong performance on mainstream visual reasoning benchmarks.</span><span class="lang-zh">该工作引入视觉反思与验证工具，并结合工具调用强化学习策略，使 VLM 智能体能够主动回看图像证据，并在主流视觉推理基准上取得较强表现。</span>
+- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.08980"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a></span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><a href="../images/rlfactory-framework.png"><img src='../images/rlfactory-framework.png' alt="RLFactory framework" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -154,20 +172,6 @@ Chengqi Dong, Chuhuai Yue, **Hang He**, _Yandong Liu, Fenghe Tang, S Kevin Zhou,
 Hao Chen, Zhexin Hu, Jiajun Chai, Haocheng Yang, **Hang He**, _Xiaohan Wang, Wei Lin, Luhang Wang, Guojun Yin, Zhuofeng Zhao_
 
 - <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.16149"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a><span class="pub-separator">|</span><a class="pub-badge pub-badge--code" href="https://github.com/Buycar-arb/ToolForge"><i class="fab fa-github"></i>Code</a></span>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><a href="../images/miva-model.png"><img src='../images/miva-model.png' alt="Training Multi-Image Vision Agents overview" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-### Training Multi-Image Vision Agents via End2End Reinforcement Learning
-
-<span class="paper-tags"><span class="paper-tag paper-tag--rl">Agentic RL</span><span class="paper-tag paper-tag--multimodal">Multimodal LLM</span><span class="paper-tag paper-tag--tool">Vision Agent</span></span>
-
-_Chengqi Dong, Chuhuai Yue_, **Hang He**, _Rongge Mao, Fenghe Tang, S Kevin Zhou, Zekun Xu, Xiaohan Wang, Jiajun Chai, Wei Lin, Guojun Yin_
-
-- <span class="pub-links"><a class="pub-badge pub-badge--paper" href="https://arxiv.org/abs/2512.08980"><span class="pub-badge__icon pub-badge__icon--arxiv"><img src="../images/arxiv.svg" alt="" aria-hidden="true"></span>Paper</a></span>
 
 </div>
 </div>
