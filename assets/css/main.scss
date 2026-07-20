@@ -210,6 +210,18 @@
     white-space: nowrap;
 }
 
+.corresponding-author-note {
+    display: inline;
+    padding: 0 0.08em;
+    background: linear-gradient(
+        to bottom,
+        transparent 48%,
+        rgba(210, 255, 74, 0.38) 48%,
+        rgba(210, 255, 74, 0.38) 90%,
+        transparent 90%
+    );
+}
+
 .pub-badge {
     display: inline-flex;
     align-items: center;
